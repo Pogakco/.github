@@ -12,6 +12,7 @@ POGAKCO는 **같은 타이머(=뽀모도로)** 를 통해 학습 사이클을 �
 - **함께하면 더 집중**할 수 있고, **효율적인 학습 환경**을 조성할 수 있는 POGAKCO로 여러분의 **집중력**을 높여보세요! 🚀
 
 ![pogakco-overview2](https://github.com/user-attachments/assets/e3933fe4-a319-421d-a1cc-f9882890ef5d)
+
 - **배포 URL :** https://pogakco.site
 - **전체 프로젝트 기간 :** 2024-6-24 ~ 2024-7-19
 
