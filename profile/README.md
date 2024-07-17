@@ -1,6 +1,7 @@
 # 📔 서비스 소개
 
-![pogakco-overview](https://github.com/user-attachments/assets/7b0b3a62-ceff-4687-8c36-1e5a5444a969)
+![pogakco-overview](https://github.com/user-attachments/assets/e55e7afc-a9f2-49ff-9207-1a44334714d4)
+
 > **더 집중하고 싶으신가요?** 공유 타이머로 함께 공부하는 서비스, **POGAKCO(뽀각코)** 를 만나보세요!<br>
 
 POGAKCO는 **같은 타이머(=뽀모도로)** 를 통해 학습 사이클을 공유하고 생산성을 극대화할 수 있는 협업 서비스입니다. 👥 <br> 
