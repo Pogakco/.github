@@ -33,8 +33,3 @@ POGAKCO는 **같은 타이머(=뽀모도로)** 를 통해 학습 사이클을 �
 |         **이창우**          |         **하주영**          |
 |:--------------------------:|:--------------------------:|
 | [<img src="https://avatars.githubusercontent.com/u/50562562?v=4" height=150 width=150> <br/> @changchangwoo](https://github.com/changchangwoo) | [<img src="https://avatars.githubusercontent.com/u/92720304?v=4" height=150 width=150> <br/> @hazzuu123](https://github.com/hazzuu123) |
-|             FE             |             FE             |
-
-
-
-
