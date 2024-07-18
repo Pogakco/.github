@@ -22,12 +22,19 @@ POGAKCO는 **같은 타이머(=뽀모도로)** 를 통해 학습 사이클을 �
 <br>
 
 # 👥 팀원 구성
+### ✨ BE
+|         **김은채**          |         **임한비**          |
+|:--------------------------:|:--------------------------:|
+| [<img src="https://avatars.githubusercontent.com/u/123533586?v=4" height=150 width=150> <br/> @lucaseunchae](https://github.com/lucaseunchae) | [<img src="https://avatars.githubusercontent.com/u/80617446?v=4" height=150 width=150> <br/> @hanbirang](https://github.com/hanbirang) |
 
-<div align="center">
 
-|                                        **김은채**                                        |                                         **이창우**                                         |                                     **임한비**                                     |                                     **하주영**                                     |
-| :--------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
-| [<img src="https://avatars.githubusercontent.com/u/123533586?v=4" height=150 width=150> <br/> @lucaseunchae](https://github.com/lucaseunchae) | [<img src="https://avatars.githubusercontent.com/u/50562562?v=4" height=150 width=150> <br/> @changchangwoo](https://github.com/changchangwoo) | [<img src="https://avatars.githubusercontent.com/u/80617446?v=4" height=150 width=150> <br/> @hanbirang](https://github.com/hanbirang) | [<img src="https://avatars.githubusercontent.com/u/92720304?v=4" height=150 width=150> <br/> @hazzuu123](https://github.com/hazzuu123) |
-|                                            BE                                            |                                             FE                                             |                                         BE                                         |                                         FE                                         |
+### ✨ FE
 
-</div>
+|         **이창우**          |         **하주영**          |
+|:--------------------------:|:--------------------------:|
+| [<img src="https://avatars.githubusercontent.com/u/50562562?v=4" height=150 width=150> <br/> @changchangwoo](https://github.com/changchangwoo) | [<img src="https://avatars.githubusercontent.com/u/92720304?v=4" height=150 width=150> <br/> @hazzuu123](https://github.com/hazzuu123) |
+|             FE             |             FE             |
+
+
+
+
