@@ -14,6 +14,7 @@ POGAKCO는 **같은 타이머(=뽀모도로)** 를 통해 학습 사이클을 �
 ![pogakco-overview2](https://github.com/user-attachments/assets/5c249a9f-4e87-4223-ba61-633aaa40e054)
 
 - **🌐 배포 URL :** https://pogakco.site
+- **ℹ️ 소개 사이트 :** https://noble-binder-13f.notion.site/POGAKCO-cfc3ab1ae6324b8fbf04fc6ade2eea63
 - **🗓️ 전체 프로젝트 기간 :** 2024-6-24 ~ 2024-7-19
 
 <br>
